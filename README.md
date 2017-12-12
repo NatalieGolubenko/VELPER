@@ -1,5 +1,5 @@
 # VELPER
-An innovative P2P Uber-mode Blockchain platform created to operating system created to allow people receiving instant video-consultations on any issue online. 
+An innovative P2P Uber-mode Blockchain platform created to allow people receiving instant video-consultations on any issue online. 
 
 The developers of VELPER.io claim that it will have many benefits for anyone who used to solve problems quickly
 You just need to have a smartphone with Internet-connection to join the global VELPER system and get a video consultation from a specialist on any issue, or vice versa - to become an assistant and earn money at a convenient time, regardless of the time of the day and actual location.
